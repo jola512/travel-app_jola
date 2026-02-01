@@ -11,13 +11,13 @@ Frontend w React, backend w Node.js + Express, dane z REST Countries API.
 
 📊 Wyświetlanie: 
 
-stolicy 
+ stolicy 
 
-populacji 
+ populacji 
 
-regionu 
+ regionu 
 
-flagi 
+ flagi 
 
 🗺️ Podgląd kraju na Google Maps 
 
